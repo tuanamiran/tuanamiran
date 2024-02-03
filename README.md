@@ -1,8 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 
-public class Movement : MonoBehaviour
 {
     private CharacterController _controller;
     private Vector3 _velocity;
